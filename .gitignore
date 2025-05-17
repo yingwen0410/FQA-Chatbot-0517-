@@ -1,0 +1,24 @@
+# .NET Core build artifacts
+bin/
+obj/
+
+# VSCode 設定（只保留 settings.json）
+.vscode/*
+!.vscode/settings.json
+
+# OS產生的垃圾檔案
+.DS_Store
+Thumbs.db
+
+# 發佈資料夾
+publish/
+
+# 使用者環境檔案
+.env
+
+# 資料庫檔案（如有）
+*.db
+
+# 本地備份/暫存檔
+*.bak
+*.tmp
