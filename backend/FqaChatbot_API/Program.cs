@@ -8,6 +8,18 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer(); // API 端點探索器，Swagger所需
 builder.Services.AddSwaggerGen();  // Swagger 生成器，Swagger所需
 
+// 配置 CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowMyOrigin",
+        policy =>
+        {
+            policy.WithOrigins("http://127.0.0.1:5500") 
+                   .AllowAnyHeader()
+                   .AllowAnyMethod();
+        });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -17,10 +29,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection(); 
+app.UseHttpsRedirection();
 
-app.UseAuthorization(); 
+// 使用 CORS
+app.UseCors("AllowMyOrigin");
 
-app.MapControllers(); 
+app.UseAuthorization();
+
+app.MapControllers();
 
 app.Run(); // 開始監聽來自用戶端的 HTTP 請求
