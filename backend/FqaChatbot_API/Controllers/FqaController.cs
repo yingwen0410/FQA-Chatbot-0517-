@@ -23,7 +23,7 @@ namespace FqaChatbot_API.Controllers
             var path = Path.Combine(AppContext.BaseDirectory, "fqa-data.json");
             try
             {
-                var jsonString = File.ReadAllText(path); // 讀取 JSON 檔案
+                var jsonString = System.IO.File.ReadAllText(path); // 明確指定 System.IO.File
                 return JsonSerializer.Deserialize<List<FqaItem>>(jsonString) ?? new List<FqaItem>();
             }
             catch (FileNotFoundException)
