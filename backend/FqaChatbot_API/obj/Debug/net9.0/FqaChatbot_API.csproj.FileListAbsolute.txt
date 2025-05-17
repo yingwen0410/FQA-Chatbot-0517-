@@ -1,3 +1,11 @@
+D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.csproj.AssemblyReference.cache
+D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.AssemblyInfoInputs.cache
+D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.AssemblyInfo.cs
+D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.csproj.CoreCompileInputs.cache
+D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.MvcApplicationPartsAssemblyInfo.cs
+D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.MvcApplicationPartsAssemblyInfo.cache
+D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.sourcelink.json
 D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\bin\Debug\net9.0\appsettings.Development.json
 D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\bin\Debug\net9.0\appsettings.json
 D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\bin\Debug\net9.0\fqa-data.json
@@ -12,14 +20,6 @@ D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\bin\Debug\net9.0\Microsoft.Open
 D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.csproj.AssemblyReference.cache
-D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.GeneratedMSBuildEditorConfig.editorconfig
-D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.AssemblyInfoInputs.cache
-D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.AssemblyInfo.cs
-D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.csproj.CoreCompileInputs.cache
-D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.MvcApplicationPartsAssemblyInfo.cs
-D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.MvcApplicationPartsAssemblyInfo.cache
-D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\FqaChatbot_API.sourcelink.json
 D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\scopedcss\bundle\FqaChatbot_API.styles.css
 D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\staticwebassets.build.json
 D:\VScode\0517FQA_Chatbot\backend\FqaChatbot_API\obj\Debug\net9.0\staticwebassets.build.json.cache

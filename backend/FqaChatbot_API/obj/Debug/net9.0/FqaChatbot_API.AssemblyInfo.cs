@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FqaChatbot_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f655e0557c2184daaa6820c2b6c88a9b53083df6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15cedd4b761a5066e74394e92ba41e97a32d674f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FqaChatbot_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FqaChatbot_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
